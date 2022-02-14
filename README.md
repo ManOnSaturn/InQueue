@@ -12,8 +12,6 @@ This is a university project made for the 2021 edition of the Tecnologie Web (We
 | :exclamation:  This project was made for learning purposes only |
 |-----------------------------------------------------------------|
 
-You can test it by visiting [inqueue.it](https://inqueue.it).
-
 ## How to get started
 ### On Mongo DB Atlas
 Make sure you've added your IP address to the project's IP Access List.
@@ -53,8 +51,6 @@ match the mail provider.
     ° 'link@test.com' - ZeldaHair
     ° 'jack@test.com' - LostGym
     ° 'pied@test.com' - Pied Piper
-
-<p align="center"><img src="/inqueue.svg" width="500" /></p>
 
 ## Technologies
 To build this app the following technologies have been used:
